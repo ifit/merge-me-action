@@ -7,6 +7,7 @@
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^5.1.1",
+    "axios": "1.12.2",
     "micromatch": "^4.0.8"
   },
   "description": "Automatically merges Pull Requests.",
@@ -95,5 +96,5 @@
     "test:watch": "jest --watch --verbose false",
     "types": "tsc --noEmit"
   },
-  "version": "2.10.119"
+  "version": "2.10.120"
 }
