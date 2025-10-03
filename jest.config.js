@@ -15,4 +15,3 @@ module.exports = {
   roots: ['<rootDir>/src'],
   setupFilesAfterEnv: ['<rootDir>/test/setup.ts'],
   testEnvironment: '<rootDir>/test/TestEnv.js',
-};
